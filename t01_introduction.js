@@ -1,9 +1,9 @@
 /****************************
 This is a block comment.
-Put your header comment here!
+Display a message in the Console!
 ****************************/
 console.log("Running t01_introduction.js")
-console.log(/*Insert your message here!*/)
+console.log("We are learning JS")
 
 // This is a single line comment
 
